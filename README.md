@@ -1,2 +1,2 @@
-# VizagothAddons
-Vizagoth Profile 
+# Addons  
+A collection of addons that I use.
